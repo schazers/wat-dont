@@ -4,3 +4,4 @@ name: wat do?
 username: nikki
 description: arrow keys to move, r to restart
 coverImage: new-cover.png
+dimensions: full
